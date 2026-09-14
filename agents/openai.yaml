@@ -1,0 +1,4 @@
+interface:
+  display_name: "Worry Stone App 图标 Lite"
+  short_description: "输入主题，生成圆润自由轮廓、带手作釉面触感的透明陶瓷素材"
+  default_prompt: "使用 $worry-stone-app-icon-lite，为灵感制作一枚透明陶瓷图标。"
