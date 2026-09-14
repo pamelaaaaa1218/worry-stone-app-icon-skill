@@ -64,9 +64,9 @@ PNG 是位图。实际透明通道取决于运行环境的生图与导出能力�
 
 ![Worry Stone 拟物化 App 图标设计：热门 App 与原创自由轮廓封面](showcase/01-cover.png)
 
-| 模式 1 · 自由轮廓透明素材 | 模式 2 · iOS 图标 |
-| --- | --- |
-| ![模式 1：自由轮廓透明素材](showcase/02-freeform-transparent.png) | ![模式 2：iOS 图标](showcase/03-ios.png) |
+![模式 1：自由轮廓透明素材](showcase/02-freeform-transparent.png)
+
+![模式 2：iOS 图标](showcase/03-ios.png)
 
 ![模式 3：Android Adaptive 风格设计](showcase/04-android.png)
 
